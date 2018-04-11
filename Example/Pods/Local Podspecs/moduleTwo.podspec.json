@@ -1,0 +1,22 @@
+{
+  "name": "moduleTwo",
+  "version": "0.1.0",
+  "summary": "A short description of moduleTwo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/李康滨/moduleTwo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "李康滨": "1218773641@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/李康滨/moduleTwo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "moduleTwo/Classes/**/*"
+}
